@@ -1,6 +1,8 @@
 # Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
+Name:Vishvanandh N
 
+Register number:24005857
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
 # Apparatus required:
@@ -89,8 +91,8 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include <WiFi.h>
 #include "ThingSpeak.h" 
 #define Soil_Moisture 34
-char ssid[] = "Akshay";
-char pass[] = "Loid D Ackerman :)";
+char ssid[] = "Vichu";
+char pass[] = "vichu06.)";
 int keyIndex = 0;
 WiFiClient  client;
 
